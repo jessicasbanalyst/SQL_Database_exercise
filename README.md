@@ -1,5 +1,5 @@
 # SQL_Database_exercise
-  This is a SQL database exercise I did for one of my undergraduate classes called "Database Design and Implementation" (ITCS 3160).
+  This is a simple SQL database exercise I did for one of my undergraduate classes called "Database Design and Implementation" (ITCS 3160).
 I first created a database called "prints" followed by the following tables: "customers", "items", "orders", and "orderline". Then,
 I inserted the data into the tables. Under "customer", I added "customer_id", "customer_name", "customer_add", "customer_city",
 "customer_state", "customer_zip", and "customer_phone". Then, under "items", I added "item_id", "title, artist", "unit_price", 
